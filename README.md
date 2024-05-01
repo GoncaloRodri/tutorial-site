@@ -21,8 +21,25 @@
 
 Let's start with Git, a version control tool to let us work together at the same time without conflits!
 
+## VS Code Setup
 
+To help us with the code, we will use the VS Code editor!
 
-```
-npx create-next-app@latest
+### Recomended Extensions
+- ESLint
+- Prettier
+- GitLens
+- Github Copilot
+- Beared Theme
+
+## Git
+
+To help us with Git, we will use the VS Code integrated source control panel!
+
+## React
+
+To create a new React project, we will use the following command:
+
+```bash
+npx create-next-app@latest 
 ```
